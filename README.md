@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sadeep</h1>
 <h3 align="center">A passionate Full Stack Developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadeepdeshal&label=Profile%20views&color=0e75b6&style=flat" alt="sadeepdeshal" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sadeepdeshal&label=Profile%20views&color=0e75b6&style=flat" alt="sadeepdeshal" /> </p>
 
 - 🔭 I’m currently working on [Silvercare Project](https://github.com/sadeepdeshal/silvercare)
 
